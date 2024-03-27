@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Biodata Diri</title>
+</head>
+<body>
+   <div class="wrapper">
+    <hi>Biodata Diri</hi>
+    <table class="table">
+        <tr>
+            <td>Nama</td>
+            <td>: ghinaulayyazizah</td>
+            <td rowspan="5"><img src="foto.jpg" alt="" class="potho"></td>
+        </tr>
+        <tr>
+            <td>Tanggal Lahir</td>
+            <td>: 04 Desember 2003</td>
+        <tr>
+            <td>Domisili</td>
+            <td>: Bekasi</td>
+        <tr>
+            <td>Alamat</td>
+            <td>: Jl. Merpati 6 D9/8</td>
+        <tr>
+            <td>: Telpon</td>
+            <td>0812 8556 7034</td>
+        </tr>
+    </table>
+    <hr>
+    <p>copyright @ghinaulayyaazizah</p>
+   </div>
+</body>
+</html>
